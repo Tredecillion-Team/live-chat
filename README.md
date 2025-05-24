@@ -13,7 +13,7 @@ Anda dapat mengunduhnya melalui tautan berikut:
 
 ## Instalasi
 
-Ubah **API KEY** pada file **.env.local** berikut:
+Ubah **API KEY** pada file **.env.local** dengan API Key Google AI Studio:
 
 ```bash
 GEMINI_API_KEY=YOUR_API_KEY
