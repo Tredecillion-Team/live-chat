@@ -6,8 +6,8 @@ Aplikasi untuk berbicara dengan AI menggunakan suara. Aplikasi menggunakan Backe
 
 Pastikan Anda telah menginstal **Node.js versi 20** dan **GIT**.  
 Anda dapat mengunduhnya melalui tautan berikut:  
-[Node.js v20.9.0](https://nodejs.org/id/blog/release/v20.9.0)
 
+[Node.js v20.9.0](https://nodejs.org/id/blog/release/v20.9.0)
 [GIT](https://git-scm.com/downloads)
 
 ## Instalasi
