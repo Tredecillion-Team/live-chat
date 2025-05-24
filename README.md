@@ -1,6 +1,6 @@
-# Running-Timer
+## live-chat
 
-Project ini dibuat untuk kebutuhan event Ma'soem Run 2025.
+Aplikasi untuk berbicara dengan AI menggunakan suara. Aplikasi menggunakan Backend Google AI Studio.
 
 ## Prasyarat
 
