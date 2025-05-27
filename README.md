@@ -1,4 +1,4 @@
-## live-chat
+# live-chat
 
 Aplikasi untuk berbicara dengan AI menggunakan suara. Aplikasi menggunakan Backend Google AI Studio.
 
